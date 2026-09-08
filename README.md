@@ -43,7 +43,8 @@ También generamos espacios para compartir conocimiento, discutir ideas y seguir
 Sabemos que elegir un nuevo desafío profesional es una decisión importante. Por eso, buscamos que desde el inicio tengas claridad sobre cómo funciona nuestro proceso y qué puedes esperar en cada etapa.
 
 <!-- IMAGEN DEL PROCESO DE SELECCIÓN TECH -->
-<img width="2500" height="3125" alt="5  Oferta" src="https://github.com/user-attachments/assets/8ddef694-58c6-4444-be52-058201348b5f" />
+
+<img width="2500" height="3125" alt="5  Oferta" src="https://github.com/user-attachments/assets/530a0f85-1b26-435e-8920-d173947d9646" />
 
 
 ---
