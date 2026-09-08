@@ -1,4 +1,4 @@
-### 🎯 Open Source, Comunidad y Siguientes Pasos
+## 🎯 Open Source, Comunidad y Siguientes Pasos
 
 Queremos que puedas conocer cómo trabajamos más allá de lo que te contamos. Por eso, compartimos parte de nuestra experiencia a través de contenido técnico, Open Source y espacios donde conversamos sobre los desafíos reales de ingeniería en Buk.
 
