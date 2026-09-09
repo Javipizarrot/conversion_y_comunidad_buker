@@ -12,14 +12,14 @@ En nuestro **Tech Blog** puedes encontrar temas como:
 - Caché de Docker en pipelines.
 - "Claude en Buk: del copiloto al agente autónomo".
 
-🔗 **Explora nuestras publicaciones:** [buk.engineering](https://buk.engineering/)
+🔗 **Explora nuestras publicaciones:** ➡️ **[buk.engineering](https://buk.engineering/)**
 
 ### 🤖 IA en DevEx y Productividad
 
 La Inteligencia Artificial ya forma parte de cómo trabajamos. La estamos incorporando en nuestros procesos de ingeniería para potenciar la **productividad y Developer Experience (DevEx)** de nuestros equipos.
 
-<!-- VIDEO IA EN DEVEX Y PRODUCTIVIDAD -->
-[▶️ Ver Video: IA en DevEx y aceleración](https://drive.google.com/file/d/1M-Y5rbQb7pF8Dj29nrblbqq0t5Y6FNXt/view?usp=sharing)
+**<!-- VIDEO IA EN DEVEX Y PRODUCTIVIDAD -->
+[▶️ Ver Video: IA en DevEx y aceleración](https://drive.google.com/file/d/1M-Y5rbQb7pF8Dj29nrblbqq0t5Y6FNXt/view?usp=sharing)**
 
 ### 🌐 Open Source y Contribución
 
