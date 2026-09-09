@@ -55,5 +55,5 @@ Si te hizo sentido nuestra forma de trabajar, los desafíos que estamos resolvie
 👉 **[Explorar Oportunidades en Buk](https://www.takealuk.com/empleos-buk?q%5Bname_cont%5D=&countries%5B%5D=Chile)**
 
 <!-- VIDEO DE BENEFICIOS COMO COMPLEMENTO SECUNDARIO -->
-*Y si quieres conocer un poco más sobre cómo es trabajar en Buk:*  
-[▶️ Ver Video: Beneficios de trabajar en Buk](https://drive.google.com/file/d/1TCXge_Qbf1iVKSQgcF-09o0Rdey6WMDY/view?usp=sharing)
+*Y si quieres conocer un poco más sobre cómo es trabajar en Buk:*  *
+**[▶️ Ver Video: Beneficios de trabajar en Buk](https://drive.google.com/file/d/1TCXge_Qbf1iVKSQgcF-09o0Rdey6WMDY/view?usp=sharing)**
