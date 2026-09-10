@@ -45,7 +45,7 @@ Sabemos que elegir un nuevo desafío profesional es una decisión importante. Po
 <!-- IMAGEN DEL PROCESO DE SELECCIÓN TECH -->
 
 <p align="center">
-  <img src="b1b77ab3-779e-4709-9e78-89a0e0def88b.png" width="500">
+  <img src="5. Oferta.png" width="500">
 </p>
 
 
